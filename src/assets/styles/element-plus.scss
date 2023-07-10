@@ -1,0 +1,17 @@
+.select {
+    .el-input__wrapper{
+        background-color: $background;
+    }
+    .el-input__inner {
+        color: $text;
+    }
+}
+.text {
+    max-width: 516px;
+    margin: 0 auto;
+    padding-top: 50px;
+    line-height: 35px;
+    letter-spacing: 0.1em;
+    color: $textMuted;
+
+}
